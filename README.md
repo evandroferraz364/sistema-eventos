@@ -29,7 +29,7 @@ sistema-eventos/
 
 ## Como Compilar
 
-Abra o terminal na pasta do projeto e execute:
+Abra o terminal na pasta do projeto (digite CMD no Windows na barra de endereços) e execute:
 
 ```bash
 javac Main.java model/*.java view/*.java controller/*.java
