@@ -66,6 +66,7 @@ java Main
 - Paradigma: Orientado a Objetos
 - Padrão: MVC (Model-View-Controller)
 - Persistência: Arquivo events.data
+- Criado com VS Code
 
 ---
 
